@@ -48,7 +48,6 @@ def deviceInformation(data):
  
  # Finding Switch Links
  def findSwitchLinks(data,s):
- def findSwitchLinks(data,s):
 	global switchLinks
 	global linkPorts
 	global G
