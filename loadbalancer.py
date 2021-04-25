@@ -84,8 +84,8 @@ def findSwitchLinks(data,s):
 	switchID = s.split(":")[7]
 	switchLinks[switchID]=links
   
- # Finds a Path to A Switch
- def findSwitchRoute():
+# Finds a Path to A Switch
+def findSwitchRoute():
 	pathKey = ""
 	nodeList = []
 	src = int(switch[h2].split(":",7)[7],16)
