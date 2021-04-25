@@ -9,7 +9,7 @@ class customTopo(Topo):
     "Custom Topology"
 
     def __init__(self):
-        "Create Fat tree Topology"
+        "Custom Topology"
 
         Topo.__init__(self)
 
